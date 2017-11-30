@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
         for (var i in scripts) {
             if (scripts[i].src && scripts[i].src.match(/breadcrumb\.js$/)) {
                 pathBreadCrumb = scripts[i].src.replace(/(.*)breadcrumb\.js$/, "$1");
-                pathBreadCrumb = pathBreadCrumb.replace("/js/", "/");
+                pathBreadCrumb = pathBreadCrumb.replace("/js/", "/");;;;
                 break;
             }
         }

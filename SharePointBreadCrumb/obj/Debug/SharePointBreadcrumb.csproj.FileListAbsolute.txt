@@ -3,3 +3,9 @@ C:\Users\Administrator\Desktop\SharePointBreadCrumb\SharePointBreadCrumb\bin\Deb
 C:\Users\Administrator\Desktop\SharePointBreadCrumb\SharePointBreadCrumb\obj\Debug\SharePointBreadcrumb.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\SharePointBreadCrumb\SharePointBreadCrumb\obj\Debug\SharePointBreadCrumb.dll
 C:\Users\Administrator\Desktop\SharePointBreadCrumb\SharePointBreadCrumb\obj\Debug\SharePointBreadCrumb.pdb
+C:\Users\Jonathan.valdes\Documents\GitHub\SharePoint-Breadcrumb\SharePointBreadCrumb\bin\Debug\SharePointBreadCrumb.dll
+C:\Users\Jonathan.valdes\Documents\GitHub\SharePoint-Breadcrumb\SharePointBreadCrumb\bin\Debug\SharePointBreadCrumb.pdb
+C:\Users\Jonathan.valdes\Documents\GitHub\SharePoint-Breadcrumb\SharePointBreadCrumb\obj\Debug\SharePointBreadcrumb.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan.valdes\Documents\GitHub\SharePoint-Breadcrumb\SharePointBreadCrumb\obj\Debug\SharePointBreadcrumb.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan.valdes\Documents\GitHub\SharePoint-Breadcrumb\SharePointBreadCrumb\obj\Debug\SharePointBreadCrumb.dll
+C:\Users\Jonathan.valdes\Documents\GitHub\SharePoint-Breadcrumb\SharePointBreadCrumb\obj\Debug\SharePointBreadCrumb.pdb
